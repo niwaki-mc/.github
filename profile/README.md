@@ -12,7 +12,7 @@ We are dedicated to providing a welcoming environment for players on the Niwaki 
 
 ### Open Source Policy
 
-All our code projects are open-source and publicly available for forking. However, direct contributions to server resources such as the launcher, mods, website, or any other project are limited to public issue reporting and meticulously reviewed merge requests.
+All our code projects are open-source and publicly available for forking, The only exception being the Models (items, block or mobs) which are kept private. However, direct contributions to server resources such as the launcher, mods, website, or any other project are limited to public issue reporting and meticulously reviewed merge requests.
 
 ### Contribution Guidelines
 
@@ -46,7 +46,7 @@ Nous nous engageons à fournir un environnement accueillant pour les joueurs sur
 
 ### Politique Open Source
 
-Tous nos projets de code sont open-source et disponibles publiquement pour le fork. Cependant, les contributions directes aux ressources du serveur telles que le launcher, les mods, le site web, ou tout autre projet sont limitées au signalement public de problèmes et aux demandes de fusion minutieusement examinées.
+Tous nos projets de code sont open-source et disponibles publiquement pour le fork, la seule exception étant nos modèles (Objets, blocks ou monstres) qui restent privés. Cependant, les contributions directes aux ressources du serveur telles que le launcher, les mods, le site web, ou tout autre projet sont limitées au signalement public de problèmes et aux demandes de fusion minutieusement examinées.
 
 ### Directives de Contribution
 
